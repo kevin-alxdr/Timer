@@ -1,7 +1,7 @@
 # Timer
 This is my attempt at making a Timer in C#. I started this project as a way to familiarise myself and practice with C# syntax.
 Although I am aware of a pre-existing Timer class that can be used to recreate what I have done, I wanted to challenge myself by attempting to build a
-timer myself from scratching, building ontop of seconds to create minutes, and building ontop of seconds and minutes to create hours.
+timer myself from scratch, building on top of seconds to create minutes, and building on top of seconds and minutes to create hours.
 
 &nbsp;  
 
